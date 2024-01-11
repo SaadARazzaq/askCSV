@@ -1,10 +1,4 @@
 streamlit
-streamlit_chat
-pypdf
 langchain
-torch
-accelerate
-bitsandbytes
-transformers
-sentence_transformers
-faiss_cpu
+python-dotenv
+langchain_experimental
