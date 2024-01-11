@@ -40,3 +40,6 @@ I learnt about the concept of "agents" throughout this project. Following are my
 - Agents in this project represent the dynamic bridge between users and the LLM capabilities, providing the facility to interact with CSV data.
 
 ![image](https://github.com/SaadARazzaq/askCSV/assets/123338307/a3a51515-3961-41eb-a23c-2f03eefdfc34)
+
+
+**Note: YOU MAY NEED PAID API KEY IN ORDER TO GET THIS APP WORKING**
